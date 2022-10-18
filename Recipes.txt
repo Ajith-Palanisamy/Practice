@@ -4,9 +4,8 @@ Recipies
 2.Chicken
 3.Burger
 4.Pizza 
-5.Sub Branch Dosa
-6.Sub Masala Dosa
+5.Maggi 10.11
 6.Main panner Dosa 
-7.Sub vada
+
 7.Main vada
 8.Bonda 10.08
