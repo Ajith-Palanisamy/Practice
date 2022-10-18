@@ -8,3 +8,4 @@ Recipies
 6.Sub Masala Dosa
 6.Main panner Dosa 
 7.Sub vada
+7.Main vada
